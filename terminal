@@ -1,0 +1,7 @@
+wilder@wilder-ThinkPad-T440p:~$ ls
+Bureau     examples.desktop  Modèles  Public           Vidéos
+Documents  Images            Musique  Téléchargements
+wilder@wilder-ThinkPad-T440p:~$ pwd
+/home/wilder
+wilder@wilder-ThinkPad-T440p:~$ cd
+wilder@wilder-ThinkPad-T440p:~$ 
