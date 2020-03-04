@@ -25,17 +25,20 @@
         <div>
         <a href ="https://placeholder.com"><img src ="http://via.placeholder.com/150"></a>
         <p>lorem ipsum</p>
+        </div>  
     </section>
     <section>
     <h1>Contact us<h1>
     </section>
     </body>
     <footer>
-    <a href=about us</a>
-    <a href=fellows</a>
-    <a href=join our army</a>
-    <a href=faq</a>
-    <a href=reward condition</a>
-    <a href=legal mentions</a>
+    <a href= aboutus.html target="_blank">about us</a>
+    <a href=fellows.html target="_blank">fellows</a>
+    <a href= joinour.army target="_blank">join our</a>  </a>
+    <a href= faq.html target="_blank">FAQ</a>
+    <a href= rewardcondition.html target="_blank>reward condition</a>
+    <a href= legalmentions.html target="_blank>legal mentions</a>
+    <p>sauron4ever.com</p>
+    <p>follow him also on twitter
     </footer>
 </html>
