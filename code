@@ -4,8 +4,8 @@ NbMaxBonbon est un entier = 0
 debut CalculBonbons (reel argent , reel prix ) 
   si reel agent < 0 et reel prix < 0
     tant que reel prix < reel argent 
-      reel argent = - reel argent - reel prix
-      NbMaxBonbon = - NbMaxBonbon + 1 
+      reel argent =  reel argent - reel prix
+      NbMaxBonbon =  NbMaxBonbon + 1 
       retouner NbMaxBonbon   
     fin tant que
   fin si 
