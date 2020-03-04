@@ -1,0 +1,168 @@
+.
+├── fictional
+│   ├── arrakis.jpeg
+│   ├── coruscant.jpeg
+│   └── cybertron.jpeg
+├── inhabited
+│   ├── jupiter.jpeg
+│   ├── neptune.jpeg
+│   ├── saturn.jpeg
+│   └── uranus.jpeg
+└── real
+    ├── dwarf-planets
+    ├── gas-giants
+    └── telluric
+        ├── earth.jpeg
+        ├── mars.jpeg
+        ├── mercury.jpeg
+        └── venus.jpeg
+1  sudo dmidecode -s sytem-serial-number
+    2  sudo dmidecode -s Sytem-serial-number
+    3  sudo dmidecode -s system-serial-number
+    4  ls
+    5  pwd
+    6  cd
+    7  ls
+    8  ls/home/wilder
+    9  ls Images
+   10  ls/home
+   11  ls
+   12  pwd
+   13  cd
+   14  mkdir quete
+   15  cd mkdir quetes
+   16  cd ~/quetes/shell
+   17  cd~mkdir quetes
+   18  apt-get
+   19  sudo apt-get
+   20  sudo apt-get wget 
+   21  sudo apt update
+   22  sudo apt-get wget 
+   23  sudo apt wget 
+   24  sudo apt install wget 
+   25  sudo apt install tree
+   26  sudo apt install unzip
+   27  /quetes/shell
+   28  ~/quetes/shell
+   29  cd quete/shell
+   30  mkdir quete
+   31  cd quete
+   32  mkdir shell
+   33  wget http://github.com/bhubr.github.io/raw/m unzip planets.zip
+   34  touche pomme 
+   35  touch pomme
+   36  unzip planets.zip
+   37  eog planets
+   38  rmdir quetes/shell
+   39  rmdir quete/shell/pomme
+   40  wget https://github.com/bhubr.github.io/ra
+   41  wget https://github.com/bhubr.github.io/raw/munzip planets.zip
+   42  wget http://github.com/bhubr/bhubr.github.io/raw/master/wild/planets.zip unzip planets.zip
+   43  eog planets
+   44  mkdir -p  quete/planets/real quete/planets/fictional quete/planets/inhabited
+   45  mkdir -p planets/real/teeluric planets/real/gas-giants planets/real/dwarf-planers
+   46  cp arrakis fictional
+   47  cp arrakis.jpeg fictional
+   48  cp planets.zip/arrakis fictional
+   49  cp planets/arrakis fictional
+   50  cd planets.zip
+   51  cd planets
+   52  mv arrakis fictional
+   53  mv planets/arrakis planets/fictional
+   54  cd quete/planets
+   55  cd quete/planets/real
+   56  cd planets/real
+   57  nkdir -p planets/real/telluric planets/real/gas-giants planets/real/dwarf-planets
+   58  mkdir -p planets/real/telluric planets/real/gas-giants planets/real/dwarf-planets
+   59  mkdir -p quete/planets/real/telluric quete/planets/real/gas-giants quete/planets/real/dwarf-planets
+   60  cd quete/planets/real
+   61  mkdir telluric 
+   62  cd quete
+   63  cd :
+   64  cd ..
+   65  mkdir -p real/telluric real/gas-giants real/dwarf-planets 
+   66  mkdir -p quete/planets/real/telluric quete/planets/real/gas-giants quete/planets/dwarf-planets
+   67  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/planets.zip unzip.zip
+   68  cd ..
+   69  cd planets
+   70  cd quete
+   71  pwd
+   72  cd planets
+   73  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/quete/planets planets.zip
+   74  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/quete/planete.zip planete.zip
+   75  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/quete/planets unzip planets.zip 
+   76  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/quete/planets.zip unzip planets.zip
+   77  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/planets.zip unzip planets.zip
+   78  •
+   79  sudo apt install tree
+   80  sudo apt install wget
+   81  sudo apt install unzip
+   82  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/planets.zip unzip planets.zip
+   83  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/planets/planets.zip planets.zip
+   84  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/planets.zip unzip planets.zip
+   85  mv mars.jpeg planets/real
+   86  cd planete
+   87  cd real
+   88  cd planete
+   89  ../
+   90  cd quete
+   91  cd planets
+   92  cd ..
+   93  cd planets
+   94  pwd
+   95  cd wild
+   96  cd real
+   97  cd planete
+   98  ls
+   99  cd home/wilder/
+  100  ls
+  101  cd planets/
+  102  pwd
+  103  cd planete
+  104  mv mercury.jpeg earth.jpeg venus.jpeg mars.jpeg real/telluric 
+  105  mv mercury.jpeg earth.jpeg venus.jpeg mars.jpeg planets/real/telluric
+  106  mv mercury.jpeg real/telluric
+  107  mv mercury.jpeg planets/teal/telluric
+  108  mv mars.jpeg planets/real/telluric
+  109  mv mars.jpeg ../real/telluric
+  110  mv mercury.jpeg mars.jpeg ../real/telluric
+  111  mv earth.jpeg ../real/telluric
+  112  mv venus.jpeg ../real/telluric
+  113  pdw
+  114  pwd
+  115  cd planets
+  116  cd planete
+  117  mv arrakis.jpeg coruscant.jpeg cybertron.jpeg planets/fictional
+  118  mv arrakis.jpeg fictional
+  119  mv coruscant.jpeg fictional
+  120  mv cybertron.jpeg fictional
+  121  mv arrakis.jpeg fictional 
+  122  mv arrakis.jpeg home/wilder/planets/fictional
+  123  mv arrakis.jpeg /wilder/planets/fictional
+  124  mv arrakis.jpeg wilder/planets/fictional
+  125  mv arrakis ./fictional
+  126  cd wilder
+  127  cd planets
+  128  cd ./
+  129  cd dossier personnel
+  130  pwd
+  131  cd /home
+  132  cd planets/planete
+  133  cd planets
+  134  cd wilder
+  135  cd planets
+  136  cd planete
+  137  mv arrakis.jpeg /home/wilder/planets/fictional
+  138  mv coruscant.jpeg cybertron.jpeg /home/wilder/planets/fictional
+  139  cp jupiter.jpeg /home/wilder/planets/inhabited
+  140  cp neptune.jpeg saturn.jpeg uranus.jpeg /home/wilder/planets/inhabited
+  141  cd /home/wilder/planets
+  142  rmdir planete
+  143  cd planete
+  144  rmdir jupiter.jpeg 
+  145  cd /wilder/planets
+  146  cd home/wilder/planets
+  147  cd /home/wilder/planets
+  148  rm -r planete
+  149  tree
+  150  histroy
