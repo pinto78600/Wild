@@ -1,5 +1,7 @@
 variable 
 NbMaxBonbon est un entier = 0 
+argent est un reel
+prix est un reel
 
 debut CalculBonbons (reel argent , reel prix ) 
   si reel agent < 0 et reel prix < 0
