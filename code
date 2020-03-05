@@ -4,8 +4,8 @@ argent est un reel
 prix est un reel
 
 debut CalculBonbons (reel argent , reel prix ) 
-  si reel agent < 0 et reel prix < 0
-    tant que reel prix < reel argent 
+  si reel agent > 0 et reel prix > 0
+    tant que reel argent >= reel prix
       reel argent =  reel argent - reel prix
       NbMaxBonbon =  NbMaxBonbon + 1 
       retouner NbMaxBonbon   
