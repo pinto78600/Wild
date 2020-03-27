@@ -1,0 +1,21 @@
+ 1623  grep PHP wilders.csv > php_france_2019.csv
+ 1624  grep Biarritz wilders.csv > biarritz.csv  grep  Toulouse wilders.cs > toulouse.csv  
+ 1625  grep Biarritz wilders.csv > biarritz.csv 
+ 1626  grep Toulouse wilders.csv > toulouse.csv 
+ 1627  grep JavaScript toulouse.csv > javascript_biarritz_toulouse.csv
+ 1628  grep JavaScript Biarritz.csv > javascript_biarritz_toulouse.csv
+ 1629  grep JavaScript biarritz.csv > javascript_biarritz_toulouse.csv
+ 1630  history
+ 1631  tail
+ 1632  history tail
+ 1633  history tail 10
+ 1634  history 10 tail
+ 1635  history.txt
+ 1636  history tail 
+ 1637  history tail 100
+ 1638  tail history 
+ 1639  history tail 
+ 1640  history
+ 1641  tail
+ 1642  tail 1600
+➜  Terminal 
